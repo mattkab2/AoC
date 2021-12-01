@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Fortran objects/exe
+*.o
+*.mod
+*.smod
+*.exe
