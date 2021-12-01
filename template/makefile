@@ -5,7 +5,7 @@ SRC=$(wildcard *.f90)
 OBJ=$(SRC:.f90=.o)
 EXE=$(SRC:.f90=.exe)
 
-all: $(EXE)
+all: $(EXE) input.dat
 
 %.exe : %.o
 	$(FC) -o $*.exe $<
@@ -14,6 +14,9 @@ all: $(EXE)
 %.o %.mod %.smod: %.f90
 	$(FC) $(FCFLAGS) -c $<
 	@touch $@
+
+input.dat: procInp.sh input.txt
+	./procInp.sh
 
 .PHONY: clean all
 clean:
