@@ -7,7 +7,7 @@ MODULE Utils
     LOGICAL,INTENT(IN) :: invCrit
     INTEGER(4) :: i
     LOGICAL,ALLOCATABLE :: msk(:)
-    LOGICAL :: crit,msk(:)
+    LOGICAL :: crit
     ALLOCATE(msk(SIZE(vals)))
     DO i=nBits-1,0,-1
       crit = (COUNT(BTEST(vals,i)) >= COUNT(.NOT. BTEST(vals,i)))
@@ -23,12 +23,13 @@ PROGRAM Day3
   IMPLICIT NONE
   INTEGER(4) :: nLines,nBits,i,j
   INTEGER(4),ALLOCATABLE :: valsC(:),valsO(:),bits(:)
-  LOGICAL,ALLOCATABLE :: msk(:)
+  REAL :: START,FINISH
 
   OPEN(unit=98,file="input.dat")
   READ(98,*) nBits,nLines
-  ALLOCATE(bits(nBits),msk(nLines))
+  ALLOCATE(bits(nBits))
   ALLOCATE(valsO(nLines),valsC(nLines))
+  CALL CPU_TIME(START)
   DO i=1,nLines
     READ(98,*) bits
     valsO(i) = 0
@@ -39,5 +40,7 @@ PROGRAM Day3
   ENDDO
   CALL filter(valsO,nBits,.FALSE.)
   CALL filter(valsC,nBits,.TRUE.)
+  CALL CPU_TIME(FINISH)
   WRITE(*,*) valsC(1)*valsO(1)
+  print '("Time = ",f6.3," seconds.")',finish-start
 ENDPROGRAM Day3
