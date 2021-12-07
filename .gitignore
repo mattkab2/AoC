@@ -134,3 +134,8 @@ dmypy.json
 *.smod
 *.exe
 *.swp
+
+# Ignore inputs
+*/input_long.txt
+*/input.txt
+*/input.dat
