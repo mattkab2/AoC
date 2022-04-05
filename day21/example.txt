@@ -1,0 +1,1500 @@
+   Rolled:           1
+   Rolled:           2
+   Rolled:           3
+ P1 Score:           10
+   Rolled:           4
+   Rolled:           5
+   Rolled:           6
+ P2 Score:            3
+ 
+   Rolled:           7
+   Rolled:           8
+   Rolled:           9
+ P1 Score:           14
+   Rolled:          10
+   Rolled:          11
+   Rolled:          12
+ P2 Score:            9
+ 
+   Rolled:          13
+   Rolled:          14
+   Rolled:          15
+ P1 Score:           20
+   Rolled:          16
+   Rolled:          17
+   Rolled:          18
+ P2 Score:           16
+ 
+   Rolled:          19
+   Rolled:          20
+   Rolled:          21
+ P1 Score:           26
+   Rolled:          22
+   Rolled:          23
+   Rolled:          24
+ P2 Score:           22
+ 
+   Rolled:          25
+   Rolled:          26
+   Rolled:          27
+ P1 Score:           30
+   Rolled:          28
+   Rolled:          29
+   Rolled:          30
+ P2 Score:           25
+ 
+   Rolled:          31
+   Rolled:          32
+   Rolled:          33
+ P1 Score:           40
+   Rolled:          34
+   Rolled:          35
+   Rolled:          36
+ P2 Score:           33
+ 
+   Rolled:          37
+   Rolled:          38
+   Rolled:          39
+ P1 Score:           44
+   Rolled:          40
+   Rolled:          41
+   Rolled:          42
+ P2 Score:           34
+ 
+   Rolled:          43
+   Rolled:          44
+   Rolled:          45
+ P1 Score:           50
+   Rolled:          46
+   Rolled:          47
+   Rolled:          48
+ P2 Score:           36
+ 
+   Rolled:          49
+   Rolled:          50
+   Rolled:          51
+ P1 Score:           56
+   Rolled:          52
+   Rolled:          53
+   Rolled:          54
+ P2 Score:           37
+ 
+   Rolled:          55
+   Rolled:          56
+   Rolled:          57
+ P1 Score:           60
+   Rolled:          58
+   Rolled:          59
+   Rolled:          60
+ P2 Score:           45
+ 
+   Rolled:          61
+   Rolled:          62
+   Rolled:          63
+ P1 Score:           70
+   Rolled:          64
+   Rolled:          65
+   Rolled:          66
+ P2 Score:           48
+ 
+   Rolled:          67
+   Rolled:          68
+   Rolled:          69
+ P1 Score:           74
+   Rolled:          70
+   Rolled:          71
+   Rolled:          72
+ P2 Score:           54
+ 
+   Rolled:          73
+   Rolled:          74
+   Rolled:          75
+ P1 Score:           80
+   Rolled:          76
+   Rolled:          77
+   Rolled:          78
+ P2 Score:           61
+ 
+   Rolled:          79
+   Rolled:          80
+   Rolled:          81
+ P1 Score:           86
+   Rolled:          82
+   Rolled:          83
+   Rolled:          84
+ P2 Score:           67
+ 
+   Rolled:          85
+   Rolled:          86
+   Rolled:          87
+ P1 Score:           90
+   Rolled:          88
+   Rolled:          89
+   Rolled:          90
+ P2 Score:           70
+ 
+   Rolled:          91
+   Rolled:          92
+   Rolled:          93
+ P1 Score:          100
+   Rolled:          94
+   Rolled:          95
+   Rolled:          96
+ P2 Score:           78
+ 
+   Rolled:          97
+   Rolled:          98
+   Rolled:          99
+ P1 Score:          104
+   Rolled:         100
+   Rolled:           1
+   Rolled:           2
+ P2 Score:           79
+ 
+   Rolled:           3
+   Rolled:           4
+   Rolled:           5
+ P1 Score:          110
+   Rolled:           6
+   Rolled:           7
+   Rolled:           8
+ P2 Score:           81
+ 
+   Rolled:           9
+   Rolled:          10
+   Rolled:          11
+ P1 Score:          116
+   Rolled:          12
+   Rolled:          13
+   Rolled:          14
+ P2 Score:           82
+ 
+   Rolled:          15
+   Rolled:          16
+   Rolled:          17
+ P1 Score:          120
+   Rolled:          18
+   Rolled:          19
+   Rolled:          20
+ P2 Score:           90
+ 
+   Rolled:          21
+   Rolled:          22
+   Rolled:          23
+ P1 Score:          130
+   Rolled:          24
+   Rolled:          25
+   Rolled:          26
+ P2 Score:           93
+ 
+   Rolled:          27
+   Rolled:          28
+   Rolled:          29
+ P1 Score:          134
+   Rolled:          30
+   Rolled:          31
+   Rolled:          32
+ P2 Score:           99
+ 
+   Rolled:          33
+   Rolled:          34
+   Rolled:          35
+ P1 Score:          140
+   Rolled:          36
+   Rolled:          37
+   Rolled:          38
+ P2 Score:          106
+ 
+   Rolled:          39
+   Rolled:          40
+   Rolled:          41
+ P1 Score:          146
+   Rolled:          42
+   Rolled:          43
+   Rolled:          44
+ P2 Score:          112
+ 
+   Rolled:          45
+   Rolled:          46
+   Rolled:          47
+ P1 Score:          150
+   Rolled:          48
+   Rolled:          49
+   Rolled:          50
+ P2 Score:          115
+ 
+   Rolled:          51
+   Rolled:          52
+   Rolled:          53
+ P1 Score:          160
+   Rolled:          54
+   Rolled:          55
+   Rolled:          56
+ P2 Score:          123
+ 
+   Rolled:          57
+   Rolled:          58
+   Rolled:          59
+ P1 Score:          164
+   Rolled:          60
+   Rolled:          61
+   Rolled:          62
+ P2 Score:          124
+ 
+   Rolled:          63
+   Rolled:          64
+   Rolled:          65
+ P1 Score:          170
+   Rolled:          66
+   Rolled:          67
+   Rolled:          68
+ P2 Score:          126
+ 
+   Rolled:          69
+   Rolled:          70
+   Rolled:          71
+ P1 Score:          176
+   Rolled:          72
+   Rolled:          73
+   Rolled:          74
+ P2 Score:          127
+ 
+   Rolled:          75
+   Rolled:          76
+   Rolled:          77
+ P1 Score:          180
+   Rolled:          78
+   Rolled:          79
+   Rolled:          80
+ P2 Score:          135
+ 
+   Rolled:          81
+   Rolled:          82
+   Rolled:          83
+ P1 Score:          190
+   Rolled:          84
+   Rolled:          85
+   Rolled:          86
+ P2 Score:          138
+ 
+   Rolled:          87
+   Rolled:          88
+   Rolled:          89
+ P1 Score:          194
+   Rolled:          90
+   Rolled:          91
+   Rolled:          92
+ P2 Score:          144
+ 
+   Rolled:          93
+   Rolled:          94
+   Rolled:          95
+ P1 Score:          200
+   Rolled:          96
+   Rolled:          97
+   Rolled:          98
+ P2 Score:          151
+ 
+   Rolled:          99
+   Rolled:         100
+   Rolled:           1
+ P1 Score:          206
+   Rolled:           2
+   Rolled:           3
+   Rolled:           4
+ P2 Score:          157
+ 
+   Rolled:           5
+   Rolled:           6
+   Rolled:           7
+ P1 Score:          210
+   Rolled:           8
+   Rolled:           9
+   Rolled:          10
+ P2 Score:          160
+ 
+   Rolled:          11
+   Rolled:          12
+   Rolled:          13
+ P1 Score:          220
+   Rolled:          14
+   Rolled:          15
+   Rolled:          16
+ P2 Score:          168
+ 
+   Rolled:          17
+   Rolled:          18
+   Rolled:          19
+ P1 Score:          224
+   Rolled:          20
+   Rolled:          21
+   Rolled:          22
+ P2 Score:          169
+ 
+   Rolled:          23
+   Rolled:          24
+   Rolled:          25
+ P1 Score:          230
+   Rolled:          26
+   Rolled:          27
+   Rolled:          28
+ P2 Score:          171
+ 
+   Rolled:          29
+   Rolled:          30
+   Rolled:          31
+ P1 Score:          236
+   Rolled:          32
+   Rolled:          33
+   Rolled:          34
+ P2 Score:          172
+ 
+   Rolled:          35
+   Rolled:          36
+   Rolled:          37
+ P1 Score:          240
+   Rolled:          38
+   Rolled:          39
+   Rolled:          40
+ P2 Score:          180
+ 
+   Rolled:          41
+   Rolled:          42
+   Rolled:          43
+ P1 Score:          250
+   Rolled:          44
+   Rolled:          45
+   Rolled:          46
+ P2 Score:          183
+ 
+   Rolled:          47
+   Rolled:          48
+   Rolled:          49
+ P1 Score:          254
+   Rolled:          50
+   Rolled:          51
+   Rolled:          52
+ P2 Score:          189
+ 
+   Rolled:          53
+   Rolled:          54
+   Rolled:          55
+ P1 Score:          260
+   Rolled:          56
+   Rolled:          57
+   Rolled:          58
+ P2 Score:          196
+ 
+   Rolled:          59
+   Rolled:          60
+   Rolled:          61
+ P1 Score:          266
+   Rolled:          62
+   Rolled:          63
+   Rolled:          64
+ P2 Score:          202
+ 
+   Rolled:          65
+   Rolled:          66
+   Rolled:          67
+ P1 Score:          270
+   Rolled:          68
+   Rolled:          69
+   Rolled:          70
+ P2 Score:          205
+ 
+   Rolled:          71
+   Rolled:          72
+   Rolled:          73
+ P1 Score:          280
+   Rolled:          74
+   Rolled:          75
+   Rolled:          76
+ P2 Score:          213
+ 
+   Rolled:          77
+   Rolled:          78
+   Rolled:          79
+ P1 Score:          284
+   Rolled:          80
+   Rolled:          81
+   Rolled:          82
+ P2 Score:          214
+ 
+   Rolled:          83
+   Rolled:          84
+   Rolled:          85
+ P1 Score:          290
+   Rolled:          86
+   Rolled:          87
+   Rolled:          88
+ P2 Score:          216
+ 
+   Rolled:          89
+   Rolled:          90
+   Rolled:          91
+ P1 Score:          296
+   Rolled:          92
+   Rolled:          93
+   Rolled:          94
+ P2 Score:          217
+ 
+   Rolled:          95
+   Rolled:          96
+   Rolled:          97
+ P1 Score:          300
+   Rolled:          98
+   Rolled:          99
+   Rolled:         100
+ P2 Score:          225
+ 
+   Rolled:           1
+   Rolled:           2
+   Rolled:           3
+ P1 Score:          310
+   Rolled:           4
+   Rolled:           5
+   Rolled:           6
+ P2 Score:          228
+ 
+   Rolled:           7
+   Rolled:           8
+   Rolled:           9
+ P1 Score:          314
+   Rolled:          10
+   Rolled:          11
+   Rolled:          12
+ P2 Score:          234
+ 
+   Rolled:          13
+   Rolled:          14
+   Rolled:          15
+ P1 Score:          320
+   Rolled:          16
+   Rolled:          17
+   Rolled:          18
+ P2 Score:          241
+ 
+   Rolled:          19
+   Rolled:          20
+   Rolled:          21
+ P1 Score:          326
+   Rolled:          22
+   Rolled:          23
+   Rolled:          24
+ P2 Score:          247
+ 
+   Rolled:          25
+   Rolled:          26
+   Rolled:          27
+ P1 Score:          330
+   Rolled:          28
+   Rolled:          29
+   Rolled:          30
+ P2 Score:          250
+ 
+   Rolled:          31
+   Rolled:          32
+   Rolled:          33
+ P1 Score:          340
+   Rolled:          34
+   Rolled:          35
+   Rolled:          36
+ P2 Score:          258
+ 
+   Rolled:          37
+   Rolled:          38
+   Rolled:          39
+ P1 Score:          344
+   Rolled:          40
+   Rolled:          41
+   Rolled:          42
+ P2 Score:          259
+ 
+   Rolled:          43
+   Rolled:          44
+   Rolled:          45
+ P1 Score:          350
+   Rolled:          46
+   Rolled:          47
+   Rolled:          48
+ P2 Score:          261
+ 
+   Rolled:          49
+   Rolled:          50
+   Rolled:          51
+ P1 Score:          356
+   Rolled:          52
+   Rolled:          53
+   Rolled:          54
+ P2 Score:          262
+ 
+   Rolled:          55
+   Rolled:          56
+   Rolled:          57
+ P1 Score:          360
+   Rolled:          58
+   Rolled:          59
+   Rolled:          60
+ P2 Score:          270
+ 
+   Rolled:          61
+   Rolled:          62
+   Rolled:          63
+ P1 Score:          370
+   Rolled:          64
+   Rolled:          65
+   Rolled:          66
+ P2 Score:          273
+ 
+   Rolled:          67
+   Rolled:          68
+   Rolled:          69
+ P1 Score:          374
+   Rolled:          70
+   Rolled:          71
+   Rolled:          72
+ P2 Score:          279
+ 
+   Rolled:          73
+   Rolled:          74
+   Rolled:          75
+ P1 Score:          380
+   Rolled:          76
+   Rolled:          77
+   Rolled:          78
+ P2 Score:          286
+ 
+   Rolled:          79
+   Rolled:          80
+   Rolled:          81
+ P1 Score:          386
+   Rolled:          82
+   Rolled:          83
+   Rolled:          84
+ P2 Score:          292
+ 
+   Rolled:          85
+   Rolled:          86
+   Rolled:          87
+ P1 Score:          390
+   Rolled:          88
+   Rolled:          89
+   Rolled:          90
+ P2 Score:          295
+ 
+   Rolled:          91
+   Rolled:          92
+   Rolled:          93
+ P1 Score:          400
+   Rolled:          94
+   Rolled:          95
+   Rolled:          96
+ P2 Score:          303
+ 
+   Rolled:          97
+   Rolled:          98
+   Rolled:          99
+ P1 Score:          404
+   Rolled:         100
+   Rolled:           1
+   Rolled:           2
+ P2 Score:          304
+ 
+   Rolled:           3
+   Rolled:           4
+   Rolled:           5
+ P1 Score:          410
+   Rolled:           6
+   Rolled:           7
+   Rolled:           8
+ P2 Score:          306
+ 
+   Rolled:           9
+   Rolled:          10
+   Rolled:          11
+ P1 Score:          416
+   Rolled:          12
+   Rolled:          13
+   Rolled:          14
+ P2 Score:          307
+ 
+   Rolled:          15
+   Rolled:          16
+   Rolled:          17
+ P1 Score:          420
+   Rolled:          18
+   Rolled:          19
+   Rolled:          20
+ P2 Score:          315
+ 
+   Rolled:          21
+   Rolled:          22
+   Rolled:          23
+ P1 Score:          430
+   Rolled:          24
+   Rolled:          25
+   Rolled:          26
+ P2 Score:          318
+ 
+   Rolled:          27
+   Rolled:          28
+   Rolled:          29
+ P1 Score:          434
+   Rolled:          30
+   Rolled:          31
+   Rolled:          32
+ P2 Score:          324
+ 
+   Rolled:          33
+   Rolled:          34
+   Rolled:          35
+ P1 Score:          440
+   Rolled:          36
+   Rolled:          37
+   Rolled:          38
+ P2 Score:          331
+ 
+   Rolled:          39
+   Rolled:          40
+   Rolled:          41
+ P1 Score:          446
+   Rolled:          42
+   Rolled:          43
+   Rolled:          44
+ P2 Score:          337
+ 
+   Rolled:          45
+   Rolled:          46
+   Rolled:          47
+ P1 Score:          450
+   Rolled:          48
+   Rolled:          49
+   Rolled:          50
+ P2 Score:          340
+ 
+   Rolled:          51
+   Rolled:          52
+   Rolled:          53
+ P1 Score:          460
+   Rolled:          54
+   Rolled:          55
+   Rolled:          56
+ P2 Score:          348
+ 
+   Rolled:          57
+   Rolled:          58
+   Rolled:          59
+ P1 Score:          464
+   Rolled:          60
+   Rolled:          61
+   Rolled:          62
+ P2 Score:          349
+ 
+   Rolled:          63
+   Rolled:          64
+   Rolled:          65
+ P1 Score:          470
+   Rolled:          66
+   Rolled:          67
+   Rolled:          68
+ P2 Score:          351
+ 
+   Rolled:          69
+   Rolled:          70
+   Rolled:          71
+ P1 Score:          476
+   Rolled:          72
+   Rolled:          73
+   Rolled:          74
+ P2 Score:          352
+ 
+   Rolled:          75
+   Rolled:          76
+   Rolled:          77
+ P1 Score:          480
+   Rolled:          78
+   Rolled:          79
+   Rolled:          80
+ P2 Score:          360
+ 
+   Rolled:          81
+   Rolled:          82
+   Rolled:          83
+ P1 Score:          490
+   Rolled:          84
+   Rolled:          85
+   Rolled:          86
+ P2 Score:          363
+ 
+   Rolled:          87
+   Rolled:          88
+   Rolled:          89
+ P1 Score:          494
+   Rolled:          90
+   Rolled:          91
+   Rolled:          92
+ P2 Score:          369
+ 
+   Rolled:          93
+   Rolled:          94
+   Rolled:          95
+ P1 Score:          500
+   Rolled:          96
+   Rolled:          97
+   Rolled:          98
+ P2 Score:          376
+ 
+   Rolled:          99
+   Rolled:         100
+   Rolled:           1
+ P1 Score:          506
+   Rolled:           2
+   Rolled:           3
+   Rolled:           4
+ P2 Score:          382
+ 
+   Rolled:           5
+   Rolled:           6
+   Rolled:           7
+ P1 Score:          510
+   Rolled:           8
+   Rolled:           9
+   Rolled:          10
+ P2 Score:          385
+ 
+   Rolled:          11
+   Rolled:          12
+   Rolled:          13
+ P1 Score:          520
+   Rolled:          14
+   Rolled:          15
+   Rolled:          16
+ P2 Score:          393
+ 
+   Rolled:          17
+   Rolled:          18
+   Rolled:          19
+ P1 Score:          524
+   Rolled:          20
+   Rolled:          21
+   Rolled:          22
+ P2 Score:          394
+ 
+   Rolled:          23
+   Rolled:          24
+   Rolled:          25
+ P1 Score:          530
+   Rolled:          26
+   Rolled:          27
+   Rolled:          28
+ P2 Score:          396
+ 
+   Rolled:          29
+   Rolled:          30
+   Rolled:          31
+ P1 Score:          536
+   Rolled:          32
+   Rolled:          33
+   Rolled:          34
+ P2 Score:          397
+ 
+   Rolled:          35
+   Rolled:          36
+   Rolled:          37
+ P1 Score:          540
+   Rolled:          38
+   Rolled:          39
+   Rolled:          40
+ P2 Score:          405
+ 
+   Rolled:          41
+   Rolled:          42
+   Rolled:          43
+ P1 Score:          550
+   Rolled:          44
+   Rolled:          45
+   Rolled:          46
+ P2 Score:          408
+ 
+   Rolled:          47
+   Rolled:          48
+   Rolled:          49
+ P1 Score:          554
+   Rolled:          50
+   Rolled:          51
+   Rolled:          52
+ P2 Score:          414
+ 
+   Rolled:          53
+   Rolled:          54
+   Rolled:          55
+ P1 Score:          560
+   Rolled:          56
+   Rolled:          57
+   Rolled:          58
+ P2 Score:          421
+ 
+   Rolled:          59
+   Rolled:          60
+   Rolled:          61
+ P1 Score:          566
+   Rolled:          62
+   Rolled:          63
+   Rolled:          64
+ P2 Score:          427
+ 
+   Rolled:          65
+   Rolled:          66
+   Rolled:          67
+ P1 Score:          570
+   Rolled:          68
+   Rolled:          69
+   Rolled:          70
+ P2 Score:          430
+ 
+   Rolled:          71
+   Rolled:          72
+   Rolled:          73
+ P1 Score:          580
+   Rolled:          74
+   Rolled:          75
+   Rolled:          76
+ P2 Score:          438
+ 
+   Rolled:          77
+   Rolled:          78
+   Rolled:          79
+ P1 Score:          584
+   Rolled:          80
+   Rolled:          81
+   Rolled:          82
+ P2 Score:          439
+ 
+   Rolled:          83
+   Rolled:          84
+   Rolled:          85
+ P1 Score:          590
+   Rolled:          86
+   Rolled:          87
+   Rolled:          88
+ P2 Score:          441
+ 
+   Rolled:          89
+   Rolled:          90
+   Rolled:          91
+ P1 Score:          596
+   Rolled:          92
+   Rolled:          93
+   Rolled:          94
+ P2 Score:          442
+ 
+   Rolled:          95
+   Rolled:          96
+   Rolled:          97
+ P1 Score:          600
+   Rolled:          98
+   Rolled:          99
+   Rolled:         100
+ P2 Score:          450
+ 
+   Rolled:           1
+   Rolled:           2
+   Rolled:           3
+ P1 Score:          610
+   Rolled:           4
+   Rolled:           5
+   Rolled:           6
+ P2 Score:          453
+ 
+   Rolled:           7
+   Rolled:           8
+   Rolled:           9
+ P1 Score:          614
+   Rolled:          10
+   Rolled:          11
+   Rolled:          12
+ P2 Score:          459
+ 
+   Rolled:          13
+   Rolled:          14
+   Rolled:          15
+ P1 Score:          620
+   Rolled:          16
+   Rolled:          17
+   Rolled:          18
+ P2 Score:          466
+ 
+   Rolled:          19
+   Rolled:          20
+   Rolled:          21
+ P1 Score:          626
+   Rolled:          22
+   Rolled:          23
+   Rolled:          24
+ P2 Score:          472
+ 
+   Rolled:          25
+   Rolled:          26
+   Rolled:          27
+ P1 Score:          630
+   Rolled:          28
+   Rolled:          29
+   Rolled:          30
+ P2 Score:          475
+ 
+   Rolled:          31
+   Rolled:          32
+   Rolled:          33
+ P1 Score:          640
+   Rolled:          34
+   Rolled:          35
+   Rolled:          36
+ P2 Score:          483
+ 
+   Rolled:          37
+   Rolled:          38
+   Rolled:          39
+ P1 Score:          644
+   Rolled:          40
+   Rolled:          41
+   Rolled:          42
+ P2 Score:          484
+ 
+   Rolled:          43
+   Rolled:          44
+   Rolled:          45
+ P1 Score:          650
+   Rolled:          46
+   Rolled:          47
+   Rolled:          48
+ P2 Score:          486
+ 
+   Rolled:          49
+   Rolled:          50
+   Rolled:          51
+ P1 Score:          656
+   Rolled:          52
+   Rolled:          53
+   Rolled:          54
+ P2 Score:          487
+ 
+   Rolled:          55
+   Rolled:          56
+   Rolled:          57
+ P1 Score:          660
+   Rolled:          58
+   Rolled:          59
+   Rolled:          60
+ P2 Score:          495
+ 
+   Rolled:          61
+   Rolled:          62
+   Rolled:          63
+ P1 Score:          670
+   Rolled:          64
+   Rolled:          65
+   Rolled:          66
+ P2 Score:          498
+ 
+   Rolled:          67
+   Rolled:          68
+   Rolled:          69
+ P1 Score:          674
+   Rolled:          70
+   Rolled:          71
+   Rolled:          72
+ P2 Score:          504
+ 
+   Rolled:          73
+   Rolled:          74
+   Rolled:          75
+ P1 Score:          680
+   Rolled:          76
+   Rolled:          77
+   Rolled:          78
+ P2 Score:          511
+ 
+   Rolled:          79
+   Rolled:          80
+   Rolled:          81
+ P1 Score:          686
+   Rolled:          82
+   Rolled:          83
+   Rolled:          84
+ P2 Score:          517
+ 
+   Rolled:          85
+   Rolled:          86
+   Rolled:          87
+ P1 Score:          690
+   Rolled:          88
+   Rolled:          89
+   Rolled:          90
+ P2 Score:          520
+ 
+   Rolled:          91
+   Rolled:          92
+   Rolled:          93
+ P1 Score:          700
+   Rolled:          94
+   Rolled:          95
+   Rolled:          96
+ P2 Score:          528
+ 
+   Rolled:          97
+   Rolled:          98
+   Rolled:          99
+ P1 Score:          704
+   Rolled:         100
+   Rolled:           1
+   Rolled:           2
+ P2 Score:          529
+ 
+   Rolled:           3
+   Rolled:           4
+   Rolled:           5
+ P1 Score:          710
+   Rolled:           6
+   Rolled:           7
+   Rolled:           8
+ P2 Score:          531
+ 
+   Rolled:           9
+   Rolled:          10
+   Rolled:          11
+ P1 Score:          716
+   Rolled:          12
+   Rolled:          13
+   Rolled:          14
+ P2 Score:          532
+ 
+   Rolled:          15
+   Rolled:          16
+   Rolled:          17
+ P1 Score:          720
+   Rolled:          18
+   Rolled:          19
+   Rolled:          20
+ P2 Score:          540
+ 
+   Rolled:          21
+   Rolled:          22
+   Rolled:          23
+ P1 Score:          730
+   Rolled:          24
+   Rolled:          25
+   Rolled:          26
+ P2 Score:          543
+ 
+   Rolled:          27
+   Rolled:          28
+   Rolled:          29
+ P1 Score:          734
+   Rolled:          30
+   Rolled:          31
+   Rolled:          32
+ P2 Score:          549
+ 
+   Rolled:          33
+   Rolled:          34
+   Rolled:          35
+ P1 Score:          740
+   Rolled:          36
+   Rolled:          37
+   Rolled:          38
+ P2 Score:          556
+ 
+   Rolled:          39
+   Rolled:          40
+   Rolled:          41
+ P1 Score:          746
+   Rolled:          42
+   Rolled:          43
+   Rolled:          44
+ P2 Score:          562
+ 
+   Rolled:          45
+   Rolled:          46
+   Rolled:          47
+ P1 Score:          750
+   Rolled:          48
+   Rolled:          49
+   Rolled:          50
+ P2 Score:          565
+ 
+   Rolled:          51
+   Rolled:          52
+   Rolled:          53
+ P1 Score:          760
+   Rolled:          54
+   Rolled:          55
+   Rolled:          56
+ P2 Score:          573
+ 
+   Rolled:          57
+   Rolled:          58
+   Rolled:          59
+ P1 Score:          764
+   Rolled:          60
+   Rolled:          61
+   Rolled:          62
+ P2 Score:          574
+ 
+   Rolled:          63
+   Rolled:          64
+   Rolled:          65
+ P1 Score:          770
+   Rolled:          66
+   Rolled:          67
+   Rolled:          68
+ P2 Score:          576
+ 
+   Rolled:          69
+   Rolled:          70
+   Rolled:          71
+ P1 Score:          776
+   Rolled:          72
+   Rolled:          73
+   Rolled:          74
+ P2 Score:          577
+ 
+   Rolled:          75
+   Rolled:          76
+   Rolled:          77
+ P1 Score:          780
+   Rolled:          78
+   Rolled:          79
+   Rolled:          80
+ P2 Score:          585
+ 
+   Rolled:          81
+   Rolled:          82
+   Rolled:          83
+ P1 Score:          790
+   Rolled:          84
+   Rolled:          85
+   Rolled:          86
+ P2 Score:          588
+ 
+   Rolled:          87
+   Rolled:          88
+   Rolled:          89
+ P1 Score:          794
+   Rolled:          90
+   Rolled:          91
+   Rolled:          92
+ P2 Score:          594
+ 
+   Rolled:          93
+   Rolled:          94
+   Rolled:          95
+ P1 Score:          800
+   Rolled:          96
+   Rolled:          97
+   Rolled:          98
+ P2 Score:          601
+ 
+   Rolled:          99
+   Rolled:         100
+   Rolled:           1
+ P1 Score:          806
+   Rolled:           2
+   Rolled:           3
+   Rolled:           4
+ P2 Score:          607
+ 
+   Rolled:           5
+   Rolled:           6
+   Rolled:           7
+ P1 Score:          810
+   Rolled:           8
+   Rolled:           9
+   Rolled:          10
+ P2 Score:          610
+ 
+   Rolled:          11
+   Rolled:          12
+   Rolled:          13
+ P1 Score:          820
+   Rolled:          14
+   Rolled:          15
+   Rolled:          16
+ P2 Score:          618
+ 
+   Rolled:          17
+   Rolled:          18
+   Rolled:          19
+ P1 Score:          824
+   Rolled:          20
+   Rolled:          21
+   Rolled:          22
+ P2 Score:          619
+ 
+   Rolled:          23
+   Rolled:          24
+   Rolled:          25
+ P1 Score:          830
+   Rolled:          26
+   Rolled:          27
+   Rolled:          28
+ P2 Score:          621
+ 
+   Rolled:          29
+   Rolled:          30
+   Rolled:          31
+ P1 Score:          836
+   Rolled:          32
+   Rolled:          33
+   Rolled:          34
+ P2 Score:          622
+ 
+   Rolled:          35
+   Rolled:          36
+   Rolled:          37
+ P1 Score:          840
+   Rolled:          38
+   Rolled:          39
+   Rolled:          40
+ P2 Score:          630
+ 
+   Rolled:          41
+   Rolled:          42
+   Rolled:          43
+ P1 Score:          850
+   Rolled:          44
+   Rolled:          45
+   Rolled:          46
+ P2 Score:          633
+ 
+   Rolled:          47
+   Rolled:          48
+   Rolled:          49
+ P1 Score:          854
+   Rolled:          50
+   Rolled:          51
+   Rolled:          52
+ P2 Score:          639
+ 
+   Rolled:          53
+   Rolled:          54
+   Rolled:          55
+ P1 Score:          860
+   Rolled:          56
+   Rolled:          57
+   Rolled:          58
+ P2 Score:          646
+ 
+   Rolled:          59
+   Rolled:          60
+   Rolled:          61
+ P1 Score:          866
+   Rolled:          62
+   Rolled:          63
+   Rolled:          64
+ P2 Score:          652
+ 
+   Rolled:          65
+   Rolled:          66
+   Rolled:          67
+ P1 Score:          870
+   Rolled:          68
+   Rolled:          69
+   Rolled:          70
+ P2 Score:          655
+ 
+   Rolled:          71
+   Rolled:          72
+   Rolled:          73
+ P1 Score:          880
+   Rolled:          74
+   Rolled:          75
+   Rolled:          76
+ P2 Score:          663
+ 
+   Rolled:          77
+   Rolled:          78
+   Rolled:          79
+ P1 Score:          884
+   Rolled:          80
+   Rolled:          81
+   Rolled:          82
+ P2 Score:          664
+ 
+   Rolled:          83
+   Rolled:          84
+   Rolled:          85
+ P1 Score:          890
+   Rolled:          86
+   Rolled:          87
+   Rolled:          88
+ P2 Score:          666
+ 
+   Rolled:          89
+   Rolled:          90
+   Rolled:          91
+ P1 Score:          896
+   Rolled:          92
+   Rolled:          93
+   Rolled:          94
+ P2 Score:          667
+ 
+   Rolled:          95
+   Rolled:          96
+   Rolled:          97
+ P1 Score:          900
+   Rolled:          98
+   Rolled:          99
+   Rolled:         100
+ P2 Score:          675
+ 
+   Rolled:           1
+   Rolled:           2
+   Rolled:           3
+ P1 Score:          910
+   Rolled:           4
+   Rolled:           5
+   Rolled:           6
+ P2 Score:          678
+ 
+   Rolled:           7
+   Rolled:           8
+   Rolled:           9
+ P1 Score:          914
+   Rolled:          10
+   Rolled:          11
+   Rolled:          12
+ P2 Score:          684
+ 
+   Rolled:          13
+   Rolled:          14
+   Rolled:          15
+ P1 Score:          920
+   Rolled:          16
+   Rolled:          17
+   Rolled:          18
+ P2 Score:          691
+ 
+   Rolled:          19
+   Rolled:          20
+   Rolled:          21
+ P1 Score:          926
+   Rolled:          22
+   Rolled:          23
+   Rolled:          24
+ P2 Score:          697
+ 
+   Rolled:          25
+   Rolled:          26
+   Rolled:          27
+ P1 Score:          930
+   Rolled:          28
+   Rolled:          29
+   Rolled:          30
+ P2 Score:          700
+ 
+   Rolled:          31
+   Rolled:          32
+   Rolled:          33
+ P1 Score:          940
+   Rolled:          34
+   Rolled:          35
+   Rolled:          36
+ P2 Score:          708
+ 
+   Rolled:          37
+   Rolled:          38
+   Rolled:          39
+ P1 Score:          944
+   Rolled:          40
+   Rolled:          41
+   Rolled:          42
+ P2 Score:          709
+ 
+   Rolled:          43
+   Rolled:          44
+   Rolled:          45
+ P1 Score:          950
+   Rolled:          46
+   Rolled:          47
+   Rolled:          48
+ P2 Score:          711
+ 
+   Rolled:          49
+   Rolled:          50
+   Rolled:          51
+ P1 Score:          956
+   Rolled:          52
+   Rolled:          53
+   Rolled:          54
+ P2 Score:          712
+ 
+   Rolled:          55
+   Rolled:          56
+   Rolled:          57
+ P1 Score:          960
+   Rolled:          58
+   Rolled:          59
+   Rolled:          60
+ P2 Score:          720
+ 
+   Rolled:          61
+   Rolled:          62
+   Rolled:          63
+ P1 Score:          970
+   Rolled:          64
+   Rolled:          65
+   Rolled:          66
+ P2 Score:          723
+ 
+   Rolled:          67
+   Rolled:          68
+   Rolled:          69
+ P1 Score:          974
+   Rolled:          70
+   Rolled:          71
+   Rolled:          72
+ P2 Score:          729
+ 
+   Rolled:          73
+   Rolled:          74
+   Rolled:          75
+ P1 Score:          980
+   Rolled:          76
+   Rolled:          77
+   Rolled:          78
+ P2 Score:          736
+ 
+   Rolled:          79
+   Rolled:          80
+   Rolled:          81
+ P1 Score:          986
+   Rolled:          82
+   Rolled:          83
+   Rolled:          84
+ P2 Score:          742
+ 
+   Rolled:          85
+   Rolled:          86
+   Rolled:          87
+ P1 Score:          990
+   Rolled:          88
+   Rolled:          89
+   Rolled:          90
+ P2 Score:          745
+ 
+   Rolled:          91
+   Rolled:          92
+   Rolled:          93
+ P1 Score:         1000
+   Rolled:          94
+   Rolled:          95
+   Rolled:          96
+ P2 Score:          753
+ 
+   Rolled:          97
+   Rolled:          98
+   Rolled:          99
+ P1 Score:         1004
+         753
+                  999
