@@ -136,6 +136,8 @@ dmypy.json
 *.swp
 
 # Ignore inputs
-*/input_long.txt
-*/input.txt
-*/input.dat
+**/input_long.txt
+**/input_long.dat
+**/input.txt
+**/input.dat
+
