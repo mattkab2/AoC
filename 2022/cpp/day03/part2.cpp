@@ -34,12 +34,11 @@ int main(int argc, char *argv[]) {
 
     int ret=0;
     for (int idx=0; idx<inventory.size(); idx+=3) {
-        int loc;
         for (int i=0; i<inventory[idx].size(); i++) {
-            loc = *find(inventory[idx+1].begin(),inventory[idx+1].end(),inventory[idx][i]);
-            if (loc == inventory[idx][i]) {
-                loc = *find(inventory[idx+2].begin(),inventory[idx+2].end(),inventory[idx][i]);
-                if (loc == inventory[idx][i]) {ret += priority(inventory[idx][i]); break;}
+            auto loc = find(inventory[idx+1].begin(),inventory[idx+1].end(),inventory[idx][i]);
+            if (loc != inventory[idx+1].end()) {
+                loc = find(inventory[idx+2].begin(),inventory[idx+2].end(),inventory[idx][i]);
+                if (loc != inventory[idx+2].end()) {ret += priority(inventory[idx][i]); break;}
             }
         }
     }

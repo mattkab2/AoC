@@ -11,6 +11,10 @@ test : part1.exe part2.exe input_short.dat
 	./part1.exe input_short.dat
 	./part2.exe input_short.dat
 
+memcheck : part1.exe part2.exe input_long.dat
+	valgrind ./part1.exe input_long.dat
+	valgrind ./part2.exe input_long.dat
+
 %.exe : %.o
 	$(CC) -o $*.exe $<
 

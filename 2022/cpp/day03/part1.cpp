@@ -44,20 +44,12 @@ int main(int argc, char *argv[]) {
         }
         ret += priority(inv1[j]);
     }
-    /*
+
     for (int i=0; i<inventory.size(); i++) {
         auto [ n, inv1, inv2 ] = inventory[i];
-        for (int j=0; j<n; j++) {
-            cout << inv1[j];
-        }
-        cout << " : ";
-        for (int j=0; j<n; j++) {
-            cout << inv2[j];
-        }
-        cout << "\n";
+        delete[] inv1;
+        delete[] inv2;
     }
-    */
-
     input.close();
     cout << "#####################\n";
     cout << ret << '\n';

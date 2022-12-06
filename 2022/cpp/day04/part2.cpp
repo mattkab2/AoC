@@ -17,7 +17,6 @@ int main(int argc, char *argv[]) {
             ret++;
         } else if (hi2 >= lo1 and lo2 <= hi1) {
             ret++;
-            cout < "Overlap!\n";
         }
     }
 

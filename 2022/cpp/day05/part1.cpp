@@ -51,6 +51,7 @@ int main(int argc, char *argv[]) {
 
     int n,src,dest;
     while (getline(input, line)) {
+        if (line=="") {continue;}
         istringstream iss(line);
         iss >> n >> src >> dest;
         for (int i=0; i<n; i++) {
