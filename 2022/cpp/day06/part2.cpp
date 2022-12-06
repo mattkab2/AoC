@@ -17,9 +17,6 @@ int main(int argc, char *argv[]) {
     ifstream input;
     input.open(argv[1], ios::in);
     string line;
-    int ret = 0;
-    int acc = 0;
-    int tmp = 0;
     cout << "#####################\n";
     while (getline(input, line)) {
         for (int i=0; i<line.length()-13; i++) {
