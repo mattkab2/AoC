@@ -141,3 +141,5 @@ dmypy.json
 **/input.txt
 **/input.dat
 
+# Ignore core dump files
+**/vgcore.*
