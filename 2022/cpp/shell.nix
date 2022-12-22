@@ -1,5 +1,5 @@
-with import (fetchTarball("channel:nixpkgs-unstable")) {};
-clang13Stdenv.mkDerivation {
-  name = "clang-nix-shell";
+with import <nixpkgs> {};
+stdenv.mkDerivation {
+  name = "nix-shell";
   buildInputs = [ bash valgrind ];
 }
