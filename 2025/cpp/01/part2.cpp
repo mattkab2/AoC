@@ -9,26 +9,39 @@ int main(int argc, char *argv[]) {
     ifstream input;
     input.open(argv[1], ios::in);
     string line;
-    vector<int> ret;
-    int acc = 0;
+    int acc = 50;
     int tmp = 0;
+    int ret = 0;
     while (getline(input, line)) {
-        if (line=="") {
-            ret.push_back(acc);
-            acc = 0;
-            continue;
-        }
-        istringstream iss(line);
+        istringstream iss(line.substr(1, line.size()-1));
         iss >> tmp;
-        acc += tmp;
+        ret += tmp/100;
+        if (line.data()[0] == 'L') {
+            for (int i = 0; i < tmp%100; i++) {
+                acc--;
+                if (acc < 0) {
+                    acc += 100;
+                }
+                if (acc == 0) {
+                    ret++;
+                }
+            }
+        } else {
+            for (int i = 0; i < tmp%100; i++) {
+                acc++;
+                if (acc > 99) {
+                    acc -= 100;
+                }
+                if (acc == 0) {
+                    ret++;
+                }
+            }
+        }
     }
-    input.close();
-
-    sort(ret.begin(), ret.end(), greater<int>());
 
     input.close();
     cout << "#####################\n";
-    cout << ret[0]+ret[1]+ret[2] << '\n';
+    cout << ret << '\n';
     cout << "#####################\n";
     return 0;
 }
