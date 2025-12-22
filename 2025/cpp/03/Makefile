@@ -1,7 +1,7 @@
 .SUFFIXES:
 .SUFFIXES: .cpp .o .h .txt .dat
 CC = clang++
-CXXFLAGS = -g -Wall
+CXXFLAGS = -std=c++20 -g -Wall
 
 result : part1.exe part2.exe input_long.dat
 	./part1.exe input_long.dat
